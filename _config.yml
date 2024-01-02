@@ -1,0 +1,46 @@
+title: Symbolic Enumeration in Algebra
+description: The SEA Series homepage
+author: SEA Organizers
+url: "https://SEA-website.github.io"
+baseurl: ""
+
+# SEA Organizers
+organizers:
+  - name: Angela Carnevale 
+    website: "https://angelacarnevale.github.io/"
+    university: "University of Galway"
+  - name: Paula Lins
+    website: "https://paulalins.com/"
+    university: "University of Lincoln"
+  - name: Joshua Maglione
+    website: "https://joshmaglione.com/"
+    university: "University of Galway"
+  - name: Tobias Rossmann
+    website: "https://torossmann.github.io/"
+    university: "University of Galway"
+  - name: Christopher Voll
+    website: "https://www.math.uni-bielefeld.de/~voll/"
+    university: "Bielefeld University"
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap 
+
+exclude:
+  - LICENSE
+  - .gitignore
+  - README.md
+  - docs
+
+include: 
+  - .htaccess 
+
+# theme: jekyll-theme-midnight
