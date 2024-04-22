@@ -7,30 +7,14 @@ date: 2024-01-01 12:45:13 -0400
 background: "/img/homepage.jpg"
 ---
 
-We are happy to announce the first meeting in the SEA series! [Person1](#person1) will cover Topic1 and [Person2](#person2) will cover Topic2.
+#### Speakers 
+- [Ana Botero](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=412153703&lang=en) (Bielefeld University)
+- [Alex Fink](https://webspace.maths.qmul.ac.uk/a.fink/) (Queen Mary University of London)
 
-### Person1
+#### Topics & Background Reading
 
-<center>
-    🙂
-</center>
+TBA
 
-Some text about [Person1]({{ site.url }}).
+#### Location and Schedule
 
-### Person2
-
-<center>
-    🙂
-</center>
-
-Some text about [Person2]({{ site.url }}).
-
-
-## Meeting Details
-
-- Location: Bielefeld University
-- Date: 18&ndash;19 July 2024.
-
-## Registration 
-
-Coming soon.
+TBA

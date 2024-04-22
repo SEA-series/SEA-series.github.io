@@ -9201,7 +9201,7 @@ h6 {
 }
 
 a {
-  color: #212529;
+  color: #0085A1;
 }
 a:focus, a:hover {
   color: #0085A1;
@@ -9420,7 +9420,7 @@ form .form-group:first-child .floating-label-form-group {
 }
 
 footer {
-  padding: 50px 0 65px;
+  padding: 0px 0 30px;
 }
 footer .list-inline {
   margin: 0;
