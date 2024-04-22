@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "The Inaugural Meeting"
-subtitle: "Person1 & Person2"
+title: "The Inaugural Seminar"
+subtitle: "Ana Botero & Alex Fink"
+event: "18&ndash;19 July 2024"
 date: 2024-01-01 12:45:13 -0400
 background: "/img/michael-DXQB5D1njMY-unsplash_cropped.jpg"
 ---
@@ -27,8 +28,8 @@ Some text about [Person2]({{ site.url }}).
 
 ## Meeting Details
 
-- Location: Bielefeld
-- Date: July 2024
+- Location: Bielefeld University
+- Date: 18&ndash;19 July 2024.
 
 ## Registration 
 

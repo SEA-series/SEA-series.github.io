@@ -1,5 +1,5 @@
-title: Symbolic Enumeration in Algebra
-description: The SEA Series homepage
+title: The SEA Seminar
+name: Symbolic Enumeration in Algebra
 author: SEA Organizers
 url: "https://SEA-website.github.io"
 baseurl: ""
@@ -33,12 +33,14 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap 
+  - jekyll-seo-tag
 
 exclude:
   - LICENSE
   - .gitignore
   - README.md
   - docs
+  - build.sh
 
 include: 
   - .htaccess 

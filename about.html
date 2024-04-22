@@ -5,16 +5,15 @@ title: About Us
 background: "img/jakob-owens-8tyCOqTqdqg-unsplash.jpg"
 ---
 
-<p>The Symbolic Enumeration in Algebra series brings together a community of researchers in Europe twice per year to learn about the latest advances.</p>
+<p>Symbolic Enumeration in Algebra (SEA) is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</p>
 
-<p>The SEA series is graciously funded by</p>
+<p>The SEA series is graciously funded by <a href="https://trr358.math.uni-bielefeld.de/Pages/aboutUs">CRC 358 Integral Structures in Geometry and Number Theory</a>.</p>
 
-<p>The SEA Organizers comprise
-    <ul>
-        {% for orga in site.organizers %}
-        <li>
-            <a href="{{ orga.website }}">{{ orga.name }}</a> ({{ orga.university }})
-        </li>
-        {% endfor %}
-    </ul>
-</p>
+The SEA Organizers are
+<ul>
+    {%- for orga in site.organizers %}
+    <li>
+        <a href="{{ orga.website }}">{{ orga.name }}</a> ({{ orga.university }})
+    </li>
+    {% endfor %}
+</ul>
