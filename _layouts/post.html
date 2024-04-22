@@ -14,9 +14,9 @@ layout: default
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
             <h1>{{ page.title }}</h1>
-            {% if page.subtitle %}
+            <!-- {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
-            {% endif %}
+            {% endif %} -->
             <!-- <span class="meta">Posted by
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
               on {{ page.date | date: '%B %d, %Y' }} 
@@ -31,8 +31,12 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        {{ content }}
+        <center>
+          <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+          <h3 class="post-meta">{{ page.event }}</h3>
+        </center>
 
+        {{ content }}
         <hr>
 
         <div class="clearfix">
