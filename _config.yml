@@ -3,6 +3,7 @@ name: Symbolic Enumeration in Algebra
 author: SEA Organizers
 url: "https://SEA-website.github.io"
 baseurl: ""
+description: The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.
 
 # SEA Organizers
 organizers:
