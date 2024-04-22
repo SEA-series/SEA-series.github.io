@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-website.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-website.github.io/" rel="alternate" type="text/html" /><updated>2024-01-02T22:22:59+00:00</updated><id>https://sea-website.github.io/feed.xml</id><title type="html">Symbolic Enumeration in Algebra</title><subtitle>The SEA Series homepage</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Meeting</title><link href="https://sea-website.github.io/2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Meeting" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-website.github.io/2024/01/01/inauguration</id><content type="html" xml:base="https://sea-website.github.io/2024/01/01/inauguration.html"><![CDATA[<p>We are happy to announce the first meeting in the SEA series! <a href="#person1">Person1</a> will cover Topic1 and <a href="#person2">Person2</a> will cover Topic2.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-website.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-website.github.io/" rel="alternate" type="text/html" /><updated>2024-04-22T14:52:29+01:00</updated><id>https://sea-website.github.io/feed.xml</id><title type="html">The SEA Seminar</title><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-website.github.io/2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-website.github.io/2024/01/01/inauguration</id><content type="html" xml:base="https://sea-website.github.io/2024/01/01/inauguration.html"><![CDATA[<p>We are happy to announce the first meeting in the SEA series! <a href="#person1">Person1</a> will cover Topic1 and <a href="#person2">Person2</a> will cover Topic2.</p>
 
 <h3 id="person1">Person1</h3>
 
@@ -19,8 +19,8 @@
 <h2 id="meeting-details">Meeting Details</h2>
 
 <ul>
-  <li>Location: Bielefeld</li>
-  <li>Date: July 2024</li>
+  <li>Location: Bielefeld University</li>
+  <li>Date: 18–19 July 2024.</li>
 </ul>
 
 <h2 id="registration">Registration</h2>

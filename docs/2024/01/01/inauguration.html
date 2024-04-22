@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    The Inaugural Meeting - Symbolic Enumeration in Algebra
+    The Inaugural Seminar - The SEA Seminar
     
   </title>
 
@@ -21,7 +21,74 @@
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="https://sea-website.github.io/2024/01/01/inauguration.html">
-  <link rel="alternate" type="application/rss+xml" title="Symbolic Enumeration in Algebra" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="The SEA Seminar" href="/feed.xml">
+
+
+  <!-- Load KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+
+<script>
+  const macros = {
+          "\\eqref": "\\href{###1}{(\\text{#1})}",
+          "\\ref": "\\href{###1}{\\text{#1}}",
+          "\\label": "\\htmlId{#1}{}",
+          "\\F": "\\mathbb{F}",
+          "\\Q": "\\mathbb{Q}",
+          "\\GL": "\\mathrm{GL}",
+  };
+  document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        // auto-render specific keys, e.g.:
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '\\[', right: '\\]', display: true}
+        ],
+        trust: (context) => ['\\htmlId', '\\href'].includes(context.command),
+        macros,
+        // rendering keys, e.g.:
+        throwOnError : false
+      });
+  });
+</script>
+<script>
+window.WebFontConfig = {
+  custom: {
+    families: ['KaTeX_AMS', 'KaTeX_Caligraphic:n4,n7', 'KaTeX_Fraktur:n4,n7',
+      'KaTeX_Main:n4,n7,i4,i7', 'KaTeX_Math:i4,i7', 'KaTeX_Script',
+      'KaTeX_SansSerif:n4,n7,i4', 'KaTeX_Size1', 'KaTeX_Size2', 'KaTeX_Size3',
+      'KaTeX_Size4', 'KaTeX_Typewriter'],
+  },
+};
+</script>
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>The Inaugural Seminar | The SEA Seminar</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="The Inaugural Seminar" />
+<meta name="author" content="SEA Organizers" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="We are happy to announce the first meeting in the SEA series! Person1 will cover Topic1 and Person2 will cover Topic2." />
+<meta property="og:description" content="We are happy to announce the first meeting in the SEA series! Person1 will cover Topic1 and Person2 will cover Topic2." />
+<link rel="canonical" href="https://sea-website.github.io/2024/01/01/inauguration.html" />
+<meta property="og:url" content="https://sea-website.github.io/2024/01/01/inauguration.html" />
+<meta property="og:site_name" content="The SEA Seminar" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-01T16:45:13+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Inaugural Seminar" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"SEA Organizers"},"dateModified":"2024-01-01T16:45:13+00:00","datePublished":"2024-01-01T16:45:13+00:00","description":"We are happy to announce the first meeting in the SEA series! Person1 will cover Topic1 and Person2 will cover Topic2.","headline":"The Inaugural Seminar","mainEntityOfPage":{"@type":"WebPage","@id":"https://sea-website.github.io/2024/01/01/inauguration.html"},"url":"https://sea-website.github.io/2024/01/01/inauguration.html"}</script>
+<!-- End Jekyll SEO tag -->
+
 
 </head>
 
@@ -42,7 +109,7 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/posts">Meetings</a>
+          <a class="nav-link" href="/posts">Seminars</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a>
@@ -65,9 +132,9 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1>The Inaugural Meeting</h1>
+            <h1>The Inaugural Seminar</h1>
             
-            <h2 class="subheading">Person1 & Person2</h2>
+            <h2 class="subheading">Ana Botero & Alex Fink</h2>
             
             <!-- <span class="meta">Posted by
               <a href="#">SEA Organizers</a>
@@ -104,8 +171,8 @@
 <h2 id="meeting-details">Meeting Details</h2>
 
 <ul>
-  <li>Location: Bielefeld</li>
-  <li>Date: July 2024</li>
+  <li>Location: Bielefeld University</li>
+  <li>Date: 18–19 July 2024.</li>
 </ul>
 
 <h2 id="registration">Registration</h2>

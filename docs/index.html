@@ -8,10 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    Symbolic Enumeration in Algebra
+    The SEA Seminar
   </title>
 
-  <meta name="description" content="The SEA Series homepage">
+  <meta name="description" content="">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -20,7 +20,71 @@
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="https://sea-website.github.io/">
-  <link rel="alternate" type="application/rss+xml" title="Symbolic Enumeration in Algebra" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="The SEA Seminar" href="/feed.xml">
+
+
+  <!-- Load KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+
+<script>
+  const macros = {
+          "\\eqref": "\\href{###1}{(\\text{#1})}",
+          "\\ref": "\\href{###1}{\\text{#1}}",
+          "\\label": "\\htmlId{#1}{}",
+          "\\F": "\\mathbb{F}",
+          "\\Q": "\\mathbb{Q}",
+          "\\GL": "\\mathrm{GL}",
+  };
+  document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        // auto-render specific keys, e.g.:
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '\\[', right: '\\]', display: true}
+        ],
+        trust: (context) => ['\\htmlId', '\\href'].includes(context.command),
+        macros,
+        // rendering keys, e.g.:
+        throwOnError : false
+      });
+  });
+</script>
+<script>
+window.WebFontConfig = {
+  custom: {
+    families: ['KaTeX_AMS', 'KaTeX_Caligraphic:n4,n7', 'KaTeX_Fraktur:n4,n7',
+      'KaTeX_Main:n4,n7,i4,i7', 'KaTeX_Math:i4,i7', 'KaTeX_Script',
+      'KaTeX_SansSerif:n4,n7,i4', 'KaTeX_Size1', 'KaTeX_Size2', 'KaTeX_Size3',
+      'KaTeX_Size4', 'KaTeX_Typewriter'],
+  },
+};
+</script>
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>The SEA Seminar</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="The SEA Seminar" />
+<meta name="author" content="SEA Organizers" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://sea-website.github.io/" />
+<meta property="og:url" content="https://sea-website.github.io/" />
+<meta property="og:site_name" content="The SEA Seminar" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The SEA Seminar" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"SEA Organizers"},"headline":"The SEA Seminar","name":"The SEA Seminar","url":"https://sea-website.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
 
 </head>
 
@@ -41,7 +105,7 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/posts">Meetings</a>
+          <a class="nav-link" href="/posts">Seminars</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a>
@@ -57,37 +121,33 @@
 
   <!-- Page Header -->
 
-<header class="masthead" style="background-image: url('img/matt-hardy-6ArTTluciuA-unsplash.jpg')">
+<header class="masthead" style="background-image: url('img/homepage.jpg')">
   
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1>Symbolic Enumeration in Algebra</h1>
-            
-            <span class="subheading">The SEA Series homepage</span>
-            
+            <h1>The SEA Seminar</h1>
           </div>
         </div>
       </div>
     </div>
   </header>
 
-  <div class="container">
+  <!-- <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
         
 
-        <!-- Home Post List -->
         
 
         <article class="post-preview">
           <a href="/2024/01/01/inauguration.html">
-            <h2 class="post-title">The Inaugural Meeting</h2>
+            <h2 class="post-title">The Inaugural Seminar</h2>
             
-            <h3 class="post-subtitle">Person1 & Person2</h3>
+            <h3 class="post-subtitle">Ana Botero & Alex Fink</h3>
             
           </a>
           <p class="post-meta">Posted on
@@ -99,15 +159,62 @@
 
         
 
-        <!-- Pager -->
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="/posts">View All Meetings &rarr;</a>
         </div>
 
       </div>
     </div>
-  </div>
+  </div> -->
 
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        
+
+        <!-- Home Post List -->
+        
+        <center>
+          <h1 class="post-title">The Inaugural Seminar</h1>
+          <h2 class="post-subtitle">Ana Botero & Alex Fink</h2>
+          <h3 class="post-meta">18&ndash;19 July 2024</h3>
+        </center>
+        <p>We are happy to announce the first meeting in the SEA series! <a href="#person1">Person1</a> will cover Topic1 and <a href="#person2">Person2</a> will cover Topic2.</p>
+
+<h3 id="person1">Person1</h3>
+
+<center>
+    🙂
+</center>
+
+<p>Some text about <a href="https://SEA-website.github.io">Person1</a>.</p>
+
+<h3 id="person2">Person2</h3>
+
+<center>
+    🙂
+</center>
+
+<p>Some text about <a href="https://SEA-website.github.io">Person2</a>.</p>
+
+<h2 id="meeting-details">Meeting Details</h2>
+
+<ul>
+  <li>Location: Bielefeld University</li>
+  <li>Date: 18–19 July 2024.</li>
+</ul>
+
+<h2 id="registration">Registration</h2>
+
+<p>Coming soon.</p>
+
+
+        
+
+      </div>
+    </div>
+  </div>
 
   <!-- Footer -->
 
