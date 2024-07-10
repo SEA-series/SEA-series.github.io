@@ -1,13 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-website.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-website.github.io/" rel="alternate" type="text/html" /><updated>2024-04-24T08:19:27+01:00</updated><id>https://sea-website.github.io/feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-website.github.io/2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-website.github.io/2024/01/01/inauguration</id><content type="html" xml:base="https://sea-website.github.io/2024/01/01/inauguration.html"><![CDATA[<h4 id="speakers">Speakers</h4>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-website.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-website.github.io/" rel="alternate" type="text/html" /><updated>2024-07-10T09:23:45+01:00</updated><id>https://sea-website.github.io/feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-website.github.io/2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-website.github.io/2024/01/01/inauguration</id><content type="html" xml:base="https://sea-website.github.io/2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
 <ul>
   <li><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=412153703&amp;lang=en">Ana Botero</a> (Bielefeld University)</li>
   <li><a href="https://webspace.maths.qmul.ac.uk/a.fink/">Alex Fink</a> (Queen Mary University of London)</li>
 </ul>
 
-<h4 id="topics--background-reading">Topics &amp; Background Reading</h4>
+<h3 id="location-and-schedule">Location and Schedule</h3>
 
-<p>TBA</p>
+<p>All talks will take place in the <a href="https://www.uni-bielefeld.de/__uuid/fcd0d2db-5ed3-45a1-b122-685b58074571/"><strong>Center for Interdisciplinary Research</strong></a> at the <a href="https://www.uni-bielefeld.de/">University of Bielefeld</a>.</p>
 
-<h4 id="location-and-schedule">Location and Schedule</h4>
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Thursday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30 – 10:30</td>
+      <td><em>The Tutte polynomial as a character on a coalgebra</em></td>
+    </tr>
+    <tr>
+      <td>10:30 – 11:00</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>11:00 – 12:00</td>
+      <td><em>Preliminaries on toric varieties and toric schemes over a DVR</em></td>
+    </tr>
+    <tr>
+      <td>12:00 – 13:00</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:00 – 14:00</td>
+      <td><em>The arithmetic Tutte polynomial and “matroids over rings”</em></td>
+    </tr>
+    <tr>
+      <td>14:00 – 14:30</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>14:30 – 15:30</td>
+      <td><em>Toric vector bundles over a field as piecewise linear maps to spherical Tits buildings</em></td>
+    </tr>
+    <tr>
+      <td>15:30 – 18:00</td>
+      <td>Open Discussion</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>TBA</p>]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[Speakers Ana Botero (Bielefeld University) Alex Fink (Queen Mary University of London)]]></summary></entry></feed>
+<p></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Friday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30 – 10:30</td>
+      <td><em>Toric vector bundles over a DVR as piecewise affine maps to affine Bruhat-Tits buildings</em></td>
+    </tr>
+    <tr>
+      <td>10:30 – 11:00</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>11:00 – 12:00</td>
+      <td><em>Lattice point counting and tautological classes</em></td>
+    </tr>
+    <tr>
+      <td>12:00 – 13:00</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:00 – 14:00</td>
+      <td><em>Characteristic classes of toric vector bundles</em></td>
+    </tr>
+    <tr>
+      <td>14:00 – 14:30</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>14:30 – 15:30</td>
+      <td><em>Coxeter matroids</em></td>
+    </tr>
+    <tr>
+      <td>15:30 – 18:00</td>
+      <td>Open Discussion</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<h3 id="topics--background-reading">Topics &amp; Background Reading</h3>
+
+<p><strong>Ana Botero</strong>:</p>
+
+<ol>
+  <li><em>Preliminaries on toric varieties and toric schemes over a DVR</em>
+    <ul>
+      <li>References: Chapter 3 of <a href="https://arxiv.org/pdf/1105.5584">arXiv:1105.5584</a></li>
+    </ul>
+  </li>
+  <li><em>Toric vector bundles over a field as piecewise linear maps to spherical Tits buildings</em>
+    <ul>
+      <li>References: <a href="https://arxiv.org/pdf/2304.11211">arXiv:2304.11211</a></li>
+    </ul>
+  </li>
+  <li><em>Toric vector bundles over a DVR as piecewise affine maps to affine
+Bruhat-Tits buildings</em>
+    <ul>
+      <li>References: <a href="https://arxiv.org/pdf/2304.11211">arXiv:2304.11211</a></li>
+    </ul>
+  </li>
+  <li><em>Characteristic classes of toric vector bundles</em>
+    <ul>
+      <li>References: <a href="https://arxiv.org/pdf/2304.11211">arXiv:2304.11211</a> and <a href="https://arxiv.org/abs/2402.18712">arXiv:2402.18712</a></li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<p><strong>Alex Fink</strong>:</p>
+
+<ol>
+  <li><em>The Tutte polynomial as a character on a coalgebra</em>
+    <ul>
+      <li>Following Dupont, Fink, Moci, <a href="https://arxiv.org/abs/1711.09028"><em>Universal Tutte characters via combinatorial coalgebras</em></a>.  The paper of <a href="https://arxiv.org/abs/1508.00814">Krajewski, Moffatt, Tanasa</a> that this one is based on may also be useful reading.</li>
+    </ul>
+  </li>
+  <li><em>The arithmetic Tutte polynomial and “matroids over rings”</em>
+    <ul>
+      <li>The key papers would be Moci, <a href="https://arxiv.org/abs/0911.4823"><em>A Tutte polynomial for toric arrangements</em></a>; D’Adderio, Moci, <a href="https://arxiv.org/abs/1105.3220"><em>Arithmetic matroids, the Tutte polynomial and toric arrangements</em></a>; and Fink, Moci <a href="https://arxiv.org/abs/1209.6571"><em>Matroids over a ring</em></a> and <a href="https://arxiv.org/abs/1707.01026"><em>Polyhedra and parameter spaces for matroids over valuation rings</em></a>.</li>
+    </ul>
+  </li>
+  <li><em>Lattice point counting and tautological classes</em>
+    <ul>
+      <li>This would start from my work with Amanda Cameron, <a href="https://arxiv.org/abs/1802.09859"><em>The Tutte polynomial via lattice point counting</em></a>, which was motivated by Kálmán and Postnikov, <a href="https://arxiv.org/abs/1602.04449"><em>Root polytopes, Tutte polynomials, and a duality theorem for bipartite graphs</em></a>.  We will also discuss the Berget–Eur–Spink–Tseng way (<a href="https://arxiv.org/abs/2103.08021"><em>Tautological classes of matroids</em></a>), which reinterprets my and Amanda’s proof.</li>
+    </ul>
+  </li>
+  <li><em>Coxeter matroids</em>
+    <ul>
+      <li>The centre of this would be Eur, Fink, Larson, Spink, <a href="https://arxiv.org/abs/2209.06752"><em>Signed permutohedra, delta-matroids, and beyond</em></a> and Eur, Larson, Spink, <a href="https://arxiv.org/abs/2307.02550"><em>K-classes of delta-matroids and equivariant localization</em></a>, which investigate the type BC case.</li>
+    </ul>
+  </li>
+</ol>]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[Speakers Ana Botero (Bielefeld University) Alex Fink (Queen Mary University of London)]]></summary></entry></feed>
