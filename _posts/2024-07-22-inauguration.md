@@ -12,10 +12,12 @@ background: "/img/homepage.jpg"
 	<div>
 	<img src="https://ekvv.uni-bielefeld.de/pers_publ/download/f/5/1/419718867/Original_412153703.jpeg" alt="Photo of Ana Botero" class="img-fluid" width="200">
 	</div>
+  <p></p>
 - [Alex Fink](https://webspace.maths.qmul.ac.uk/a.fink/) (Queen Mary University of London)
 	<div>
 	<img src="https://webspace.maths.qmul.ac.uk/a.fink/25t.jpg" alt="Photo of Alex Fink" class="img-fluid" width="200">
 	</div>
+  <p></p>
 
 ### Location and Schedule
 
