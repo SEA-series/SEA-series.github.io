@@ -1,1 +1,1 @@
-Sitemap: https://sea-website.github.io/sitemap.xml
+Sitemap: https://sea-series.github.io//sitemap.xml

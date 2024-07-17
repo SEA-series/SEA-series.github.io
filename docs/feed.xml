@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-website.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-website.github.io/" rel="alternate" type="text/html" /><updated>2024-07-16T11:04:50+01:00</updated><id>https://sea-website.github.io/feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-website.github.io/2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-website.github.io/2024/01/01/inauguration</id><content type="html" xml:base="https://sea-website.github.io/2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2024-07-17T08:14:56+01:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-series.github.io//2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2024/01/01/inauguration</id><content type="html" xml:base="https://sea-series.github.io//2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
 <ul>
   <li><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=412153703&amp;lang=en">Ana Botero</a> (Bielefeld University)
     <div>
@@ -26,7 +26,7 @@
   <tbody>
     <tr>
       <td>9:30 – 10:30</td>
-      <td><a href="https://SEA-website.github.io#Fink1"><em>The Tutte polynomial as a character on a coalgebra</em></a></td>
+      <td><a href="https://sea-series.github.io/#Fink1"><em>The Tutte polynomial as a character on a coalgebra</em></a></td>
     </tr>
     <tr>
       <td>10:30 – 11:00</td>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td>11:00 – 12:00</td>
-      <td><a href="https://SEA-website.github.io#Botero1"><em>Preliminaries on toric varieties and toric schemes over a DVR</em></a></td>
+      <td><a href="https://sea-series.github.io/#Botero1"><em>Preliminaries on toric varieties and toric schemes over a DVR</em></a></td>
     </tr>
     <tr>
       <td>12:00 – 13:00</td>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>13:00 – 14:00</td>
-      <td><a href="https://SEA-website.github.io#Fink2"><em>The arithmetic Tutte polynomial and “matroids over rings”</em></a></td>
+      <td><a href="https://sea-series.github.io/#Fink2"><em>The arithmetic Tutte polynomial and “matroids over rings”</em></a></td>
     </tr>
     <tr>
       <td>14:00 – 14:30</td>
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td>14:30 – 15:30</td>
-      <td><a href="https://SEA-website.github.io#Botero2"><em>Toric vector bundles over a field as piecewise linear maps to spherical Tits buildings</em></a></td>
+      <td><a href="https://sea-series.github.io/#Botero2"><em>Toric vector bundles over a field as piecewise linear maps to spherical Tits buildings</em></a></td>
     </tr>
     <tr>
       <td>15:30 – 18:00</td>
@@ -71,7 +71,7 @@
   <tbody>
     <tr>
       <td>9:30 – 10:30</td>
-      <td><a href="https://SEA-website.github.io#Botero3"><em>Toric vector bundles over a DVR as piecewise affine maps to affine Bruhat-Tits buildings</em></a></td>
+      <td><a href="https://sea-series.github.io/#Botero3"><em>Toric vector bundles over a DVR as piecewise affine maps to affine Bruhat-Tits buildings</em></a></td>
     </tr>
     <tr>
       <td>10:30 – 11:00</td>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td>11:00 – 12:00</td>
-      <td><a href="https://SEA-website.github.io#Fink3"><em>Lattice point counting and tautological classes</em></a></td>
+      <td><a href="https://sea-series.github.io/#Fink3"><em>Lattice point counting and tautological classes</em></a></td>
     </tr>
     <tr>
       <td>12:00 – 13:00</td>
@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td>13:00 – 14:00</td>
-      <td><a href="https://SEA-website.github.io#Botero4"><em>Characteristic classes of toric vector bundles</em></a></td>
+      <td><a href="https://sea-series.github.io/#Botero4"><em>Characteristic classes of toric vector bundles</em></a></td>
     </tr>
     <tr>
       <td>14:00 – 14:30</td>
@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <td>14:30 – 15:30</td>
-      <td><a href="https://SEA-website.github.io#Fink4"><em>Coxeter matroids</em></a></td>
+      <td><a href="https://sea-series.github.io/#Fink4"><em>Coxeter matroids</em></a></td>
     </tr>
     <tr>
       <td>15:30 – 18:00</td>
