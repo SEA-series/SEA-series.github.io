@@ -1,14 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2024-07-17T08:24:09+01:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-series.github.io//2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2024/01/01/inauguration</id><content type="html" xml:base="https://sea-series.github.io//2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2025-03-07T14:45:32+00:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Second Seminar</title><link href="https://sea-series.github.io//2025/01/01/Osburn.html" rel="alternate" type="text/html" title="The Second Seminar" /><published>2025-01-01T16:45:13+00:00</published><updated>2025-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/01/01/Osburn</id><content type="html" xml:base="https://sea-series.github.io//2025/01/01/Osburn.html"><![CDATA[<h3 id="speakers">Speakers</h3>
+<ul>
+  <li><a href="https://maths.ucd.ie/~osburn/">Robert Osburn</a> (University College Dublin)
+    <div>
+  <img src="https://sea-series.github.io//img/speakers/Osburn.jpeg" alt="Photo of Alex Fink" class="img-fluid" width="200" />
+  </div>
+    <p></p>
+  </li>
+</ul>
+
+<h3 id="location-and-schedule">Location and Schedule</h3>
+
+<p>The seminar will be held at the University of Galway. More details will be available soon.</p>]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[Speakers Robert Osburn (University College Dublin)]]></summary></entry><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-series.github.io//2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2024/01/01/inauguration</id><content type="html" xml:base="https://sea-series.github.io//2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
 <ul>
   <li><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=412153703&amp;lang=en">Ana Botero</a> (Bielefeld University)
     <div>
-  <img src="https://ekvv.uni-bielefeld.de/pers_publ/download/f/5/1/419718867/Original_412153703.jpeg" alt="Photo of Ana Botero" class="img-fluid" width="200" />
+  <img src="https://sea-series.github.io//img/speakers/Botero.jpeg" alt="Photo of Ana Botero" class="img-fluid" width="200" />
   </div>
     <p></p>
   </li>
   <li><a href="https://webspace.maths.qmul.ac.uk/a.fink/">Alex Fink</a> (Queen Mary University of London)
     <div>
-  <img src="https://webspace.maths.qmul.ac.uk/a.fink/25t.jpg" alt="Photo of Alex Fink" class="img-fluid" width="200" />
+  <img src="https://sea-series.github.io//img/speakers/Fink.jpg" alt="Photo of Alex Fink" class="img-fluid" width="200" />
   </div>
     <p></p>
   </li>
