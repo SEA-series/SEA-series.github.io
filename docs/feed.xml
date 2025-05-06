@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2025-03-07T14:45:32+00:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Second Seminar</title><link href="https://sea-series.github.io//2025/01/01/Osburn.html" rel="alternate" type="text/html" title="The Second Seminar" /><published>2025-01-01T16:45:13+00:00</published><updated>2025-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/01/01/Osburn</id><content type="html" xml:base="https://sea-series.github.io//2025/01/01/Osburn.html"><![CDATA[<h3 id="speakers">Speakers</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2025-05-06T17:55:48+01:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Second Seminar</title><link href="https://sea-series.github.io//2025/01/01/Osburn.html" rel="alternate" type="text/html" title="The Second Seminar" /><published>2025-01-01T16:45:13+00:00</published><updated>2025-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/01/01/Osburn</id><content type="html" xml:base="https://sea-series.github.io//2025/01/01/Osburn.html"><![CDATA[<h3 id="speakers">Speakers</h3>
 <ul>
   <li><a href="https://maths.ucd.ie/~osburn/">Robert Osburn</a> (University College Dublin)
     <div>
@@ -10,7 +10,49 @@
 
 <h3 id="location-and-schedule">Location and Schedule</h3>
 
-<p>The seminar will be held at the University of Galway. More details will be available soon.</p>]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[Speakers Robert Osburn (University College Dublin)]]></summary></entry><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-series.github.io//2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2024/01/01/inauguration</id><content type="html" xml:base="https://sea-series.github.io//2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
+<p>The seminar will be held at the University of Galway</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Thursday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 – 11:00</td>
+      <td><a href="https://sea-series.github.io/#Osburn"><em>Knots and modular forms I</em></a></td>
+    </tr>
+    <tr>
+      <td>11:00 – 12:30</td>
+      <td>Coffee, Tea, and Discussions</td>
+    </tr>
+    <tr>
+      <td>12:30 – 14:00</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td>14:00 – 15:00</td>
+      <td><a href="https://sea-series.github.io/#Osburn"><em>Knots and modular forms II</em></a></td>
+    </tr>
+    <tr>
+      <td>15:00 –</td>
+      <td>Discussions, Drinks, and Food</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<h3 id="topics-and-background-reading">Topics and background reading</h3>
+
+<p><span id="Osburn">
+<em>Knots and modular forms</em></span></p>
+<ul>
+  <li>In 2006, Dasbach and Lin observed stability in the coefficients of the Nth colored Jones polynomial for alternating knots. This observation and its consequences sparked a flurry of activity in  both number theory and quantum topology. For example, Garoufalidis, Le and Zagier conjectured identities which have a  striking resemblance to those occurring in the classical setting of Andrews and Gordon. In these talks, we discuss these developments and recent joint work with Matthias Storzer (UCD) which connects arborescent links and modular forms.</li>
+  <li>References: <a href="https://arxiv.org/abs/math/0604230">arXiv:0604230</a>, <a href="https://arxiv.org/abs/1112.3905">arXiv:1112.3905</a>, and <a href="https://arxiv.org/abs/2504.18060">arXiv:2504.18060</a></li>
+</ul>]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[Speakers Robert Osburn (University College Dublin)]]></summary></entry><entry><title type="html">The Inaugural Seminar</title><link href="https://sea-series.github.io//2024/01/01/inauguration.html" rel="alternate" type="text/html" title="The Inaugural Seminar" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2024/01/01/inauguration</id><content type="html" xml:base="https://sea-series.github.io//2024/01/01/inauguration.html"><![CDATA[<h3 id="speakers">Speakers</h3>
 <ul>
   <li><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=412153703&amp;lang=en">Ana Botero</a> (Bielefeld University)
     <div>

@@ -5,3 +5,4 @@ Gemfile.lock
 *.xlsx
 extract.py
 .venv
+Gemfile.lock
