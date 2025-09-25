@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2025-05-20T11:36:10+01:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Second Seminar</title><link href="https://sea-series.github.io//2025/01/01/Osburn.html" rel="alternate" type="text/html" title="The Second Seminar" /><published>2025-01-01T16:45:13+00:00</published><updated>2025-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/01/01/Osburn</id><content type="html" xml:base="https://sea-series.github.io//2025/01/01/Osburn.html"><![CDATA[<center><p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sea-series.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sea-series.github.io//" rel="alternate" type="text/html" /><updated>2025-09-25T09:43:47+01:00</updated><id>https://sea-series.github.io//feed.xml</id><title type="html">The SEA Seminar</title><subtitle>The SEA is a series of working seminars run by researchers interested in the development of theoretical and practical tools in symbolic enumeration problems in algebra, with connections to algebraic geometry, combinatorics, and number theory.</subtitle><author><name>SEA Organizers</name></author><entry><title type="html">The Third Seminar</title><link href="https://sea-series.github.io//2025/02/01/Lorscheid.html" rel="alternate" type="text/html" title="The Third Seminar" /><published>2025-02-01T16:45:13+00:00</published><updated>2025-02-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/02/01/Lorscheid</id><content type="html" xml:base="https://sea-series.github.io//2025/02/01/Lorscheid.html"><![CDATA[<!-- 
+<center><p>
+    <a href="https://www.researchireland.ie/"><img width="400" src="https://sea-series.github.io//img/logo_black.svg" alt="Research Ireland logo"/></a>
+</p></center>
+
+<p></p> -->
+
+<h3 id="speaker">Speaker</h3>
+<ul>
+  <li><a href="https://www.lorscheid.org/">Oliver Lorscheid</a> (University of Groningen)
+    <div>
+  <img src="https://sea-series.github.io//img/speakers/Lorscheid.jpeg" alt="Photo of Oliver Lorscheid" class="img-fluid" width="200" />
+  </div>
+  </li>
+</ul>
+<p></p>
+
+<h3 id="location-and-schedule">Location and Schedule</h3>
+
+<p>The seminar will be held at Bielefeld University.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Thursday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14:00 – 15:00</td>
+      <td>Talk I</td>
+    </tr>
+    <tr>
+      <td>15:00 – 17:00</td>
+      <td>Coffee, Tea, and Discussions</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><span style="display: inline-block; width:160px">Friday</span></td>
+      <td><span style="display: inline-block; width:200px"></span></td>
+    </tr>
+    <tr>
+      <td>10:00 – 11:00</td>
+      <td>Talk II</td>
+    </tr>
+    <tr>
+      <td>11:00 – 12:30</td>
+      <td>Coffee, Tea, and Discussions</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<p>More details coming soon!</p>
+
+<!-- ### Topics and background reading
+
+<span id="Lorscheid"> -->
+
+<!-- <p></p> 
+
+
+### Sponsors 
+
+The SEA Seminar is generously supported by [Research Ireland](https://www.researchireland.ie/). -->]]></content><author><name>SEA Organizers</name></author><summary type="html"><![CDATA[&lt;!–]]></summary></entry><entry><title type="html">The Second Seminar</title><link href="https://sea-series.github.io//2025/01/01/Osburn.html" rel="alternate" type="text/html" title="The Second Seminar" /><published>2025-01-01T16:45:13+00:00</published><updated>2025-01-01T16:45:13+00:00</updated><id>https://sea-series.github.io//2025/01/01/Osburn</id><content type="html" xml:base="https://sea-series.github.io//2025/01/01/Osburn.html"><![CDATA[<center><p>
     <a href="https://www.researchireland.ie/"><img width="400" src="https://sea-series.github.io//img/logo_black.svg" alt="Research Ireland logo" /></a>
 </p></center>
 
@@ -8,7 +78,7 @@
 <ul>
   <li><a href="https://maths.ucd.ie/~osburn/">Robert Osburn</a> (University College Dublin)
     <div>
-  <img src="https://sea-series.github.io//img/speakers/Osburn.jpeg" alt="Photo of Alex Fink" class="img-fluid" width="200" />
+  <img src="https://sea-series.github.io//img/speakers/Osburn.jpeg" alt="Photo of Robert Osburn" class="img-fluid" width="200" />
   </div>
   </li>
 </ul>
