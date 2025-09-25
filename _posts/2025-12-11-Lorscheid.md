@@ -24,14 +24,16 @@ background: "/img/homepage.jpg"
 
 The seminar will be held at Bielefeld University.
 
-| <span style="display: inline-block; width:160px">Thursday</span> | <span style="display: inline-block; width:200px"></span> |
+
+| <span style="display: inline-block; width:160px">Thursday, 11 December</span> | <span style="display: inline-block; width:200px"></span> |
 | -------------- | ------ |
 | 14:00 -- 15:00  | Talk I |
 | 15:00 -- 17:00 | Coffee, Tea, and Discussions | 
 
 <p></p>
 
-| <span style="display: inline-block; width:160px">Friday</span> | <span style="display: inline-block; width:200px"></span> |
+| <span style="display: inline-block; width:160px">Friday, 12 December</span> | <span style="display: inline-block; width:200px"></span> |
+| -------------- | ------ |
 | 10:00 -- 11:00 | Talk II | 
 | 11:00 -- 12:30 | Coffee, Tea, and Discussions | 
 
