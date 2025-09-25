@@ -2,7 +2,7 @@
 layout: post
 title: "The Third Seminar"
 subtitle: "Oliver Lorscheid"
-event: "11--12 December 2025"
+event: "11&ndash;12 December 2025"
 date: 2025-02-01 12:45:13 -0400
 background: "/img/homepage.jpg"
 ---
