@@ -16,7 +16,7 @@ background: "/img/homepage.jpg"
 ### Speaker
 - [Oliver Lorscheid](https://www.lorscheid.org/) (University of Groningen)
 	<div>
-	<img src="{{ site.url }}/img/speakers/Lorscheid.jpeg" alt="Photo of Oliver Lorscheid" class="img-fluid" width="200">
+	<img src="{{ site.url }}/img/speakers/Lorscheid.jpg" alt="Photo of Oliver Lorscheid" class="img-fluid" width="200">
 	</div>
 <p></p>
 
@@ -28,6 +28,8 @@ The seminar will be held at Bielefeld University.
 | -------------- | ------ |
 | 14:00 -- 15:00  | Talk I |
 | 15:00 -- 17:00 | Coffee, Tea, and Discussions | 
+
+<p></p>
 
 | <span style="display: inline-block; width:160px">Friday</span> | <span style="display: inline-block; width:200px"></span> |
 | 10:00 -- 11:00 | Talk II | 
